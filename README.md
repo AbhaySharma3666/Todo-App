@@ -3,16 +3,16 @@
 A beautifully themed **React Native CLI** Todo App with support for **dark/light mode**, task management with editing, and persistent storage using **AsyncStorage**.
 
 <p align="center">
-  <img src="./image/light-mode-1.png" alt="Todo App Light Mode" width="220"/>
-  <img src="./image/light-mode-2.png" alt="Todo App With Tasks" width="220"/>
-  <img src="./image/dark-mode-1.png" alt="Todo App Dark Mode" width="220"/>
-  <img src="./image/dark-mode-2.png" alt="Todo App Completed Tab" width="220"/>
+  <img src="./image/light-mode-1.png" alt="Todo App Light Mode" width="210"/>
+  <img src="./image/light-mode-2.png" alt="Todo App With Tasks" width="210"/>
+  <img src="./image/dark-mode-1.png" alt="Todo App Dark Mode" width="210"/>
+  <img src="./image/dark-mode-2.png" alt="Todo App Completed Tab" width="210"/>
 </p>
 
 ---
 
 ## Apk 
-
+Also provided in release section
 
 ## ✨ Features
 
